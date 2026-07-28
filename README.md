@@ -84,7 +84,7 @@
 
 <p align="center">
   <br>
-  <i>💼 Open to collaboration and interesting projects!</i>
+  <i>💼 Let's connect if you have a bold idea or a vision to share!</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,FF69B4,FFD1DC&height=100&section=footer" width="100%"/>
