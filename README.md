@@ -11,7 +11,7 @@
 
 ### 🙎‍♂️ About Me
 
-| 👤 Full Name | 💼 Role | 🎯 Specialization | 📍 Location | 💬 Languages |
+| 👤 Name | 💼 Role | 🎯 Specialization | 📍 Location | 💬 Languages |
 | :---: | :---: | :---: | :---: | :---: |
 | Minh Anh | Business Analyst | Requirements Engineering <br> Process Optimization | Vietnam | Vietnamese <br> English |
 
